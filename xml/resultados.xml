@@ -1,1 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE liga SYSTEM "../dtd/resultados.dtd">
+<liga>
+    <jornada>
+        <partido id="P001">
+            <fecha>27-09-2026</fecha>
+            <equipo tipo="local">
+                <nombre>Pumas UNAM</nombre>
+                <goles>2</goles>
+            </equipo>
+            <equipo tipo="visitante">
+                <nombre>Atletico de San Luis</nombre>
+                <goles>3</goles>
+            </equipo>
+            <estadio>Estadio Olimpico Universitario</estadio>
+            <estado>F</estado>
+        </partido>
 
+        <partido id="P002">
+            <fecha>27-09-2026</fecha>
+            <equipo tipo="local">
+                <nombre>Leon</nombre>
+                <goles>2</goles>
+            </equipo>
+            <equipo tipo="visitante">
+                <nombre>FC Juarez</nombre>
+                <goles>1</goles>
+            </equipo>
+            <estadio>Estadio Leon</estadio>
+            <estado>F</estado>
+        </partido>
+
+        <partido id="P003">
+            <fecha>27-09-2026</fecha>
+            <equipo tipo="local">
+                <nombre>Necaxa</nombre>
+                <goles>2</goles>
+            </equipo>
+            <equipo tipo="visitante">
+                <nombre>America</nombre>
+                <goles>4</goles>
+            </equipo>
+            <estadio>Estadio Victoria</estadio>
+            <estado>F</estado>
+        </partido>
+    </jornada>
+</liga>
